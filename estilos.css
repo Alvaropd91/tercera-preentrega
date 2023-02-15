@@ -4,23 +4,24 @@
   box-sizing: border-box;
 }
 
-/* body {
-    background-image: url(/imagenes/novia\ 2.jpg);
-} */
 .navbar {
   background-color: #fff;
 }
-.navbar .navbar-brand {
+
+.navbar-brand {
   color: red !important;
   font-weight: bold;
 }
-.navbar .navbar-brand .navbar a {
+
+.navbar a {
   color: #000;
 }
-.navbar .navbar-brand .navbar-toggler {
+
+.navbar-toggler {
   background-color: green;
 }
-.navbar .navbar-brand .navbar-toggler i {
+
+.navbar-toggler i {
   color: #fff;
   font-size: 25px;
 }
@@ -43,9 +44,6 @@
   color: white;
   width: auto;
   height: auto;
-  /* width: 92%;
-  height: 450px; */
-  /* float: right; */
   background-color: rgba(0, 0, 0, 0.7);
   border: 5px solid gray;
   padding: 30px;
