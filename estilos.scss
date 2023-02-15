@@ -30,9 +30,10 @@ $grayColor: gray;
     text-align: right;
     font-weight: bold;
     font-size: 20px;
-     :hover {
-        text-decoration: underline;
-    }
+    
+}
+.nav-item:hover {
+    text-decoration: underline;
 }
 
 .img-header {

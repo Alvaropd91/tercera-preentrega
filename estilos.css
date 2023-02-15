@@ -31,7 +31,7 @@
   font-weight: bold;
   font-size: 20px;
 }
-.nav-item :hover {
+.nav-item:hover {
   text-decoration: underline;
 }
 
